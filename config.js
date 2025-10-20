@@ -1,6 +1,5 @@
 const CONFIG = {
-    SITE_KEY: "0x4AAAAAABBYFE9qmmawHgI1",  // Site Key из Cloudflare
-    END_POINT: "https://tgcontest.cazanin2015.workers.dev/" // URL бэкенда
+    END_POINT: "https://tgcontest.duckdns.org/backend7" 
 };
 
 // Экспортируем объект CONFIG
